@@ -6,8 +6,10 @@ namespace TikTacToe
     {
         static void Main(string[] args)
         {
-            UC1 Obj = new UC1();
+            CreateBoard Obj = new CreateBoard();
             Obj.Board();
+            ChooseLetter Obj2 = new ChooseLetter();
+            Obj2.choose();
         }
     }
 }
