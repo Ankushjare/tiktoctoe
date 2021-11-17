@@ -1,0 +1,14 @@
+C:\Users\Ankush\Desktop\workshop 1\TikTacToe\TikTacToe\bin\Debug\netcoreapp3.1\TikTacToe.exe
+C:\Users\Ankush\Desktop\workshop 1\TikTacToe\TikTacToe\bin\Debug\netcoreapp3.1\TikTacToe.deps.json
+C:\Users\Ankush\Desktop\workshop 1\TikTacToe\TikTacToe\bin\Debug\netcoreapp3.1\TikTacToe.runtimeconfig.json
+C:\Users\Ankush\Desktop\workshop 1\TikTacToe\TikTacToe\bin\Debug\netcoreapp3.1\TikTacToe.runtimeconfig.dev.json
+C:\Users\Ankush\Desktop\workshop 1\TikTacToe\TikTacToe\bin\Debug\netcoreapp3.1\TikTacToe.dll
+C:\Users\Ankush\Desktop\workshop 1\TikTacToe\TikTacToe\bin\Debug\netcoreapp3.1\TikTacToe.pdb
+C:\Users\Ankush\Desktop\workshop 1\TikTacToe\TikTacToe\obj\Debug\netcoreapp3.1\TikTacToe.csproj.AssemblyReference.cache
+C:\Users\Ankush\Desktop\workshop 1\TikTacToe\TikTacToe\obj\Debug\netcoreapp3.1\TikTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ankush\Desktop\workshop 1\TikTacToe\TikTacToe\obj\Debug\netcoreapp3.1\TikTacToe.AssemblyInfoInputs.cache
+C:\Users\Ankush\Desktop\workshop 1\TikTacToe\TikTacToe\obj\Debug\netcoreapp3.1\TikTacToe.AssemblyInfo.cs
+C:\Users\Ankush\Desktop\workshop 1\TikTacToe\TikTacToe\obj\Debug\netcoreapp3.1\TikTacToe.csproj.CoreCompileInputs.cache
+C:\Users\Ankush\Desktop\workshop 1\TikTacToe\TikTacToe\obj\Debug\netcoreapp3.1\TikTacToe.dll
+C:\Users\Ankush\Desktop\workshop 1\TikTacToe\TikTacToe\obj\Debug\netcoreapp3.1\TikTacToe.pdb
+C:\Users\Ankush\Desktop\workshop 1\TikTacToe\TikTacToe\obj\Debug\netcoreapp3.1\TikTacToe.genruntimeconfig.cache
