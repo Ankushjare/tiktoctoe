@@ -10,6 +10,8 @@ namespace TikTacToe
             Obj.Board();
             ChooseLetter Obj2 = new ChooseLetter();
             Obj2.choose();
+            ShowBoard Obj3 = new ShowBoard();
+            Obj3.showBoard();
         }
     }
 }
