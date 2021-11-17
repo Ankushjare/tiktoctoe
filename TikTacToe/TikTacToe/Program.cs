@@ -6,7 +6,7 @@ namespace TikTacToe
     {
         static void Main(string[] args)
         {
-            UC1 Obj = new UC1();
+            UC1_CreatBoard Obj = new UC1_CreatBoard();
             Obj.Board();
         }
     }
