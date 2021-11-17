@@ -11,7 +11,7 @@ namespace TikTacToe
         {
             for (int i =1; i< array.Length; i++)
             {
-                Console.WriteLine(array[i]);
+                Console.WriteLine("The array of:-"+array[i]);
             }
         }
     }
